@@ -65,7 +65,7 @@ It generates **formatted Excel reports** and automatically **emails them to stak
 ## ⚙️ Prerequisites
 
 * Python **3.9+**
-* SQL Server access to:
+* SQL Server READ access to:
 
   * `msdb`
 * ODBC Driver:
