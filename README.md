@@ -1,5 +1,3 @@
----
-
 ## 📊 SQL Server Monitoring Automation
 
 **Backup Status & Failed Job Reports**
