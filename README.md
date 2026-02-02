@@ -1,11 +1,3 @@
-Nice little utility 👍 This is **exactly** the kind of thing that deserves a clean GitHub README.
-
-Below is a **ready-to-paste `README.md`** tailored to what your program actually does:
-
-* **Backup status (last 24 hours)**
-* **SQL Agent job failures only (last 15 days)**
-* Multi-instance, Excel output, conditional formatting, email delivery
-
 ---
 
 ## 📊 SQL Server Monitoring Automation
