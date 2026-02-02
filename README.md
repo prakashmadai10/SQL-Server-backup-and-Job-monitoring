@@ -172,15 +172,10 @@ What happens:
   * Audit readiness
   * DBA operational efficiency
 * Scales easily to **multiple SQL instances**
-
+  
+*Use any scheduling tool as per requirement every x hours. 
 ---
 
-## 🛠 Future Enhancements (Optional Ideas)
 
-* Slack / Teams notifications
-* Threshold-based alerts (no failures → no email)
-* Backup age SLA validation
-* Job owner / schedule metadata
-* Dockerized execution
 
 
